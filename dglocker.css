@@ -1,4 +1,4 @@
-.body{width: 90%;background-color: #ececec;padding-left: 5%; padding-right: 5%;padding-bottom: 5%;font-family:  Verdana, Geneva, Tahoma, sans-serif;position: relative;background-image: url(file:///E:/deepak%20chaudhari93/Untitled-1.png);}
+.body{width: 90%;background-color: #ececec;padding-left: 5%; padding-right: 5%;padding-bottom: 5%;font-family:  Verdana, Geneva, Tahoma, sans-serif;position: relative;background-image: url(Untitled-1.png);}
 .image1{}
 .colorblue{color: #2fa7eb;}
 .gandthiji{width: 200px;height: 50%;position: absolute;left: 54%;top: 50%;}
@@ -18,11 +18,11 @@
 .part4{background-color:  #ebebeb;}
 .part5{background-color: #ebebeb;}
 .part6{width: 40%;margin-top: 2%;font-size: 15px;}
-.part7{ width: 40%;font-size: 15px; background-image: url(file:///E:/deepak%20chaudhari93/png4.png);background-repeat: no-repeat;padding-left: 2%;}
+.part7{ width: 40%;font-size: 15px; background-image: url(png4.png);background-repeat: no-repeat;padding-left: 2%;}
 .chota-container{margin: auto;padding: 1%;width: 22%;background-color: #2fa7eb;text-align: center;color: white;}
 ul{padding: 0;}
 .center{margin-top: 10px;}
-li{margin-top: 10px;font-size: 15px; background-image: url(file:///E:/deepak%20chaudhari93/sahlogo.png); background-repeat: no-repeat; list-style: none; padding-left: 30px; }
+li{margin-top: 10px;font-size: 15px; background-image: url(sahlogo.png); background-repeat: no-repeat; list-style: none; padding-left: 30px; }
 td{font-size: 13px;}
 .tablemrg{margin-top: 4%;}
 .part8{text-align: center;margin: 2px;}
@@ -30,13 +30,13 @@ td{font-size: 13px;}
 .form{width:  403px;height: 650px;background-color: #ffffff;position: absolute;right: 5%;top: 10%;border-radius: 10px;margin: auto;box-shadow: 7px 0px 5px #c9c9c9;}
 .form1{text-align: center;margin-top: 20px;margin-bottom: 10px;}
 .border{border-radius: 20px 20px 20px 20px;width: 85%;height: 35px;margin: 10px;background-color: #ebebeb;padding-left: 10%;border: none;}
-.icon1{background-image: url(file:///E:/deepak%20chaudhari93/icon7.jpg);background-repeat: no-repeat;background-position: 8px 7px;}
-.icon2{background-image: url(file:///E:/deepak%20chaudhari93/icon6.jpg);background-repeat: no-repeat;background-position: 8px 7px;}
-.icon3{background-image: url(file:///E:/deepak%20chaudhari93/icon5.jpg);background-repeat: no-repeat;background-position: 8px 7px;}
-.icon4{background-image: url(file:///E:/deepak%20chaudhari93/icon4.jpg);background-repeat: no-repeat;background-position: 8px 7px;}
-.icon5{background-image: url(file:///E:/deepak%20chaudhari93/icon3.jpg);background-repeat: no-repeat;background-position: 8px 7px;}
-.icon6{background-image: url(file:///E:/deepak%20chaudhari93/icon2.jpg);background-repeat: no-repeat;background-position: 8px 7px; width: 95%;}
-.icon7{background-image: url(file:///E:/deepak%20chaudhari93/icon1.jpg);background-repeat: no-repeat;background-position: 8px 7px;width: 95%}
+.icon1{background-image: url(icon7.jpg);background-repeat: no-repeat;background-position: 8px 7px;}
+.icon2{background-image: url(icon6.jpg);background-repeat: no-repeat;background-position: 8px 7px;}
+.icon3{background-image: url(icon5.jpg);background-repeat: no-repeat;background-position: 8px 7px;}
+.icon4{background-image: url(icon4.jpg);background-repeat: no-repeat;background-position: 8px 7px;}
+.icon5{background-image: url(icon3.jpg);background-repeat: no-repeat;background-position: 8px 7px;}
+.icon6{background-image: url(icon2.jpg);background-repeat: no-repeat;background-position: 8px 7px; width: 95%;}
+.icon7{background-image: url(icon1.jpg);background-repeat: no-repeat;background-position: 8px 7px;width: 95%}
 .checkbox{padding: 2%;text-align: center;}
 .border2{background-color: #2fa7eb;text-align: center;color: white;width: 95%;cursor: pointer;box-shadow: 0px 10px 10px #aee1ff;}
 .body4{width: 90%;background-color: #c0e2ff;padding: 5%;overflow: hidden;font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: 15px;padding: 5%;}
