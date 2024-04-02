@@ -1,0 +1,27 @@
+@media screen and (max-width:600px){
+    .body{position: static;width: 95%;padding: 5%;text-align: center;}
+    .last{background-position: 160px;margin-top: 2%;}
+    .center{margin-top: 10px;}
+    .form{position: static;width: 98%;padding: 2%;}
+    .gandthiji{display: none;}
+    .image1{display: none;}
+    table{text-align: left;width: 570px;margin-bottom: 5%;}
+    .color2{text-align: center;width: 80%;margin: auto;}
+    .body2{width: 95%;padding: 5%;}
+    .body2 p{width: 90%;}
+    .chota-container{width: 40%;margin-top: 20px;}
+    .body3{width: 95%;padding: 5%;}
+    .part6{width: 90%;}
+    .part7{padding-left: 4%;background-position: -1px 0px;width: 90%;}
+    .body4{width: 95%;padding: 5%;position: static;}
+    .size3{font-size: 17px;}
+    .pre{position: absolute;top: 80%;}
+    .size2{position: absolute;top: 82%;}
+    .body5{width: 95%;padding: 5%;}
+    .part9{font-size: 30px;}
+    .box1{position: static;width: 568px;}
+    .h3margin{padding: 2%;}   
+    .body6{flex-direction: column;}
+    .body7{width: 70%;padding: 5px;}
+    .small-container{font-size: 20px;}
+}
